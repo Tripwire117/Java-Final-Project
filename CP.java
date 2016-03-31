@@ -21,15 +21,15 @@ public class CP extends JFrame implements ActionListener
 	private JTextField ExpenseNameInput;
 	private JTextField ExpenseCost;
 	private JTextField ExpenseDate;
-   private JLabel LCityTaxInput;
-   private JTextField txtCityTaxInput;
-   private JLabel LStateTaxInput;
-   private JTextField txtStateTaxInput;
-   private JLabel LFederalTaxInput;
-   private JButton btnCalc;
-   private JButton btnExit;
-   private JTextField txtFederalTaxInput;
-   private JLabel totalPayBT;
+   	private JLabel LCityTaxInput;
+   	private JTextField txtCityTaxInput;
+   	private JLabel LStateTaxInput;
+   	private JTextField txtStateTaxInput;
+   	private JLabel LFederalTaxInput;
+   	private JButton btnCalc;
+   	private JButton btnExit;
+   	private JTextField txtFederalTaxInput;
+   	private JLabel totalPayBT;
    
 	/**
 	 * Launch the application.
